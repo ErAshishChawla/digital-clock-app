@@ -1,0 +1,23 @@
+@keyframes MoveUp {
+  0% {
+    transform: translateY(100%);
+  }
+
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+@keyframes MoveDown {
+  0% {
+    transform: translateY(0%);
+  }
+
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+/* .Modal {
+  transform: translateY(100%);
+} */
